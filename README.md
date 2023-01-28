@@ -13,7 +13,7 @@ Como visión general, se usaron engranajes y rodamientos para la transmisión de
     5. Plancas de tripley y/o madera
 
 ## Librerías adicionales
-Se hizo uso de dos librerías específicas para el ESP32, las cuales adjunto en este respositorio con los nombres [ESP32_BluetoothSerial](/ESP32_BluetoothSerial/readme.md) _(Evandro Copercini, 2018)_ y [library-LCD-I2C-master](/library-LCD-I2C-master/readme.md) _(Desconocido pero basado en DFROBOT)_. Por supuesto, siempre dando el agradecimiento al trabajo de aquellos quienes crearon dichas librerias.
+Se hizo uso de dos librerías específicas para el ESP32, las cuales adjunto en este respositorio con los nombres [ESP32_BluetoothSerial](https://github.com/Emgicraft/Proyecto_Ascensor_Inteligente/tree/main/ESP32_BluetoothSerial) _(Evandro Copercini, 2018)_ y [library-LCD-I2C-master](https://github.com/Emgicraft/Proyecto_Ascensor_Inteligente/tree/main/library-LCD-I2C-master) _(Desconocido pero basado en DFROBOT)_. Por supuesto, siempre dando el agradecimiento al trabajo de aquellos quienes crearon dichas librerias.
 
 ## Advertencia
 Por último, indicar que el material adjunto en este repositorio ha sido subido pasado ya varios años de haber hecho el proyecto, por lo que no garantizo que todo este completo u ordenado. Sin embargo, espero pueda servir como referencia, en especial el informe que a pesar de no ser muy riguroso, si explica y adjunta capturas del proyecto.
